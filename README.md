@@ -9,3 +9,6 @@ node server.js
 You can then install `ngrok` and run `ngrok http 3000` which will forward traffic to your local server.
 
 After this, you can run `node client.js` to connect the client.
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/deepstreamIO/dsh-demo-webhook-authentication.svg)](https://greenkeeper.io/)
